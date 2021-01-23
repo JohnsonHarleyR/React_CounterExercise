@@ -1,5 +1,6 @@
 // import counter component
 import Counter from "./components/Counter";
+import Switch from "./components/Switch";
 import "./styles.css";
 
 export default function App() {
@@ -9,6 +10,7 @@ export default function App() {
       <Counter />
       Another...
       <Counter />
+      <Switch />
     </div>
   );
 }
