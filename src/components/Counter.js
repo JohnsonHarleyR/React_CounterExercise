@@ -1,5 +1,7 @@
 // uses capital casing for name
+
 import React from "react";
+import "./Counter.css";
 
 // primary way to make a component is a function
 function Counter() {
