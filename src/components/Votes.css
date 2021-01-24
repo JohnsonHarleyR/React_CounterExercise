@@ -1,0 +1,14 @@
+.Votes {
+  /*display: inline-block;*/
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+}
+
+.Text {
+  font-size: 20px;
+}
+
+.Names {
+  font-weight: bold;
+}

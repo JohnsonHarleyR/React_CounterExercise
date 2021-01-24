@@ -9,6 +9,14 @@ function Switch() {
   // this is like if else
   //const text = on ? "ON" : "Off";
 
+  // can also do this
+  /*
+  let additionalClass = "";
+  if (!on) {
+    additionalClass = "Switch--off";
+  }
+  */
+
   return (
     <div className={cssClass}>
       <h3>Switch</h3>
